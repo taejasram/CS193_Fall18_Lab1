@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Excited to learn about CS tools
 - Excited to do the labs
+- Eager to become experienced with git
 
 1. Numbered
 2. List
